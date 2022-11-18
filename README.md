@@ -23,7 +23,7 @@ Team Members:
       6. CGPA
       7. Whether Research Done or Not
       
- # Application Building: 
+  # Application Building: 
     We have build a html form page to get the response from the user
     Based on the user response the model predicts the possibility and redirects to the corresponding page
     we have used Flask to build the backend side
