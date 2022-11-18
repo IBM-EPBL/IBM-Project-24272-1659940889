@@ -1,7 +1,11 @@
 # IBM-Project-24272-1659940889
 # University Admit Eligibility Predictor
 
-#Team Members: 
+# Deployment URL : https://university-admit-predictor-kind-jaguar-fb.mybluemix.net/
+
+# Demo URL : https://drive.google.com/file/d/1oMmNo0dzQpnXLtCo2Kw1ycsTd5egNTET/view?usp=sharing
+
+# Team Members: 
   1. Harshavarthini VS
   2. Rahul Shiva Konar
   3. Dharun Kumar L
